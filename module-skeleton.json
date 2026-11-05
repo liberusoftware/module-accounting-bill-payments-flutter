@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bill-payments-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-bill-payments",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_bill_payments_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/bill-payments.md",
+  "presentationPlan": "projects/accounting/flutter/bill-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
